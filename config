@@ -1,0 +1,9 @@
+font-family = SFMono Nerd Font
+background-opacity = 0.96
+background-blur-radius = 20
+theme = niji
+
+# keybinds
+keybind = global:cmd+shift+space=toggle_quick_terminal
+keybind = ctrl+z=close_surface
+keybind = ctrl+d=new_split:right
