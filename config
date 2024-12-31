@@ -1,7 +1,10 @@
-font-family = SFMono Nerd Font
-background-opacity = 0.96
+font-family = Menlo Regular
+background-opacity = 0.92
 background-blur-radius = 20
-theme = niji
+window-padding-x = 6
+window-padding-y = 4
+# Pandora, tokyonight
+theme = tokyonight
 
 # keybinds
 keybind = global:cmd+shift+space=toggle_quick_terminal
